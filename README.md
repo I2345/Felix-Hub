@@ -21,13 +21,16 @@ Krnl (Not tested but should work)
 Skisploit (Not tested but should work)
 
 # Current Supported Games
-As of v2 these are the games:
+
+As of v4 these are the games:
 
 Anomaly Breach 2
 
 Ninja Legends
 
 Prision Life
+
+Dalgona Simulator
 
 # Anomaly Breach 2 Scripts
 
@@ -62,3 +65,7 @@ Auto Sell! (Patched)
 Unlock all Islands! (Working)
 
 Private Island! (Working)
+
+# Dalgona Simulator
+
+Autofarm (Working)
