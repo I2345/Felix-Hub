@@ -49,7 +49,7 @@ Gun Mods! (Patched)
 
 Gun Pickup! (Patched)
 
-#Ninja Legends
+# Ninja Legends
 
 BasicSpeed! (Not Tested)
 
