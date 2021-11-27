@@ -45,9 +45,9 @@ BasicSpeed! (Working)
 
 BasicJump! (Working)
 
-Gun Mods! (Working)
+Gun Mods! (NOT SUPPORTED)
 
-Gun Pickup! (NOT SUPPORTED)
+Gun Pickup! (Working)
 
 # Ninja Legends
 
