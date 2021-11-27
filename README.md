@@ -3,6 +3,19 @@
 Felix Hub is a currently Free Script hub however there will be a paid version soon!
 If you would like to use felixhub you can however there are only paid exploits that work!
 
+# Infomation
+
+If you would like to talk to us about featuring your in our hub contact the owner at Kasma#6969
+We are planning to launch a discord server soon for all your problems!
+
+We plan to bring updates and get our hub fully working!
+
+# Supported Exploits
+
+Synapse X (Tested)
+Krnl (Not tested but should work)
+Skisploit (Not tested but should work)
+
 # Current Supported Games
 As of v2 these are the games:
 
