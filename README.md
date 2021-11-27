@@ -35,7 +35,7 @@ This includes:
 
 Anomaly Breach Fucker AutoEscape! (Patched)
 
-BasicSpeed! (Not tested)
+BasicSpeed! (Patched)
 
 BasicJump! (Working)
 
