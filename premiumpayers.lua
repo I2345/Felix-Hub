@@ -5,7 +5,8 @@ local paid = {
 
 
 function module:CheckPlayer(userid)
-  if paid[userid] then
+  print(paid[userid])
+  if paid[userid] == true then
     return true
   else
     return false
