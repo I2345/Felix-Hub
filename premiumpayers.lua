@@ -1,5 +1,7 @@
 local module = {}
-local paid = {}
+local paid = {
+  [571393370] = true
+}
 
 
 function module:CheckPlayer(userid)
