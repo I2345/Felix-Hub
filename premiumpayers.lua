@@ -1,4 +1,4 @@
 local playeruserIDs = {
-  [571393370] = true;
+  -- [571393370] = true;
 }
 return playeruserIDs
