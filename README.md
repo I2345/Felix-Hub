@@ -45,9 +45,9 @@ BasicSpeed! (Working)
 
 BasicJump! (Working)
 
-Gun Mods! (Patched)
+Gun Mods! (Working)
 
-Gun Pickup! (Patched)
+Gun Pickup! (NOT SUPPORTED)
 
 # Ninja Legends
 
@@ -61,4 +61,4 @@ Auto Sell! (Patched)
 
 Unlock all Islands! (Working)
 
-Private Island! (Works but remians to be tested fully)
+Private Island! (Working)
