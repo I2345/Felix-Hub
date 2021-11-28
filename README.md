@@ -54,9 +54,9 @@ Gun Pickup! (Working)
 
 # Ninja Legends
 
-BasicSpeed! (Not Tested)
+BasicSpeed! (Working)
 
-BasicJump! (Not Tested)
+BasicJump! (Working)
 
 Auto Swing! (Working)
 
