@@ -1,7 +1,11 @@
 # Attention from Felix-Hub developer
 
 Felix hub is currently going on a massive overhaul therefore this version will not get updated for any patchs.
+
+
 The discord is being made so you can report bugs and we can update the list but do not expect them getting updated.
+
+
 Thank you :)
 
 
@@ -10,6 +14,14 @@ Thank you :)
 Felix Hub is a currently Free Script hub however there will be a paid version soon!
 
 If you would like to use felixhub you can however there are only paid exploits that work!
+
+The codes for the script supports are:
+
+Working - Its working and not patched
+
+Patched - It no longer works
+
+NOT-SUPPORTED - It might work but wont recieve any updates.
 
 # Infomation
 
