@@ -3,8 +3,7 @@
 Felix hub is currently going on a massive overhaul therefore this version will not get updated for any patchs.
 
 
-The discord is being made so you can report bugs and we can update the list but do not expect them getting updated.
-
+Discord: https://discord.gg/fTmuCFgVFB so you can report bugs!
 
 Thank you :)
 
@@ -25,9 +24,7 @@ NOT-SUPPORTED - It might work but wont recieve any updates.
 
 # Infomation
 
-If you would like to talk to us about featuring your in our hub contact the owner at Kasma#6969
-
-We are planning to launch a discord server soon for all your problems!
+If you have a problem contact us at https://discord.gg/fTmuCFgVFB (13+)
 
 We plan to bring updates and get our hub fully working!
 
