@@ -25,13 +25,17 @@ Synapse X (Tested)
 
 # Current Supported Games
 
-As of v7 these are the games:
+As of v8 these are the games:
 
 Ninja Legends
 
 Dalgona Simulator
 
 Arsenal
+
+Fake Pet Simulator X
+
+Ghost Simulator
 
 # Ninja Legends
 
@@ -54,3 +58,15 @@ Autofarm (Working)
 # Arsenal
 
 Triggerbot (Not tested)
+
+# Fake Pet Simulator X
+
+Autofarm (working)
+
+Spam Messages (PATCHED)
+
+# Ghost Simulator
+
+Autofarm (Working)
+
+
