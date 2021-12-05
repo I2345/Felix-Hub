@@ -37,8 +37,6 @@ Fake Pet Simulator X
 
 Ghost Simulator
 
-Counter Blox
-
 # Ninja Legends
 
 BasicSpeed! (Working)
@@ -70,17 +68,3 @@ Spam Messages (PATCHED)
 # Ghost Simulator
 
 Autofarm (Working)
-
-# Counter Blox
-
-Silent Aimbot (Working)
-
-Spam Messages (Working)
-
-Thirdperson (Working)
-
-Anti-Aim (Working)
-
-ESP (Working)
-
-Bhop (Patched)
