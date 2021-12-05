@@ -1,12 +1,3 @@
-# Attention from Felix-Hub developer
-
-Felix hub is currently going on a massive overhaul therefore this version will not get updated for any patchs.
-
-
-Discord: https://discord.gg/fTmuCFgVFB so you can report bugs!
-
-Thank you :)
-
 
 # Felix-Hub
 
@@ -32,41 +23,15 @@ We plan to bring updates and get our hub fully working!
 
 Synapse X (Tested)
 
-Krnl (Not tested but should work)
-
-Skisploit (Not tested but should work)
-
 # Current Supported Games
 
 As of v4 these are the games:
 
-Anomaly Breach 2
-
 Ninja Legends
-
-Prision Life
 
 Dalgona Simulator
 
-# Anomaly Breach 2 Scripts
-
-This includes:
-
-Anomaly Breach Fucker AutoEscape! (Patched)
-
-BasicSpeed! (Patched)
-
-BasicJump! (Working)
-
-# Prision Life
-
-BasicSpeed! (Working)
-
-BasicJump! (Working)
-
-Gun Mods! (NOT SUPPORTED)
-
-Gun Pickup! (Working)
+Arsenal
 
 # Ninja Legends
 
@@ -85,3 +50,7 @@ Private Island! (Working)
 # Dalgona Simulator
 
 Autofarm (Working)
+
+# Arsenal
+
+Triggerbot (Not tested)
