@@ -25,7 +25,7 @@ Synapse X (Tested)
 
 # Current Supported Games
 
-As of v8 these are the games:
+As of v9 these are the games:
 
 Ninja Legends
 
@@ -36,6 +36,8 @@ Arsenal
 Fake Pet Simulator X
 
 Ghost Simulator
+
+Counter Blox
 
 # Ninja Legends
 
@@ -69,4 +71,16 @@ Spam Messages (PATCHED)
 
 Autofarm (Working)
 
+# Counter Blox
 
+Silent Aimbot (Working)
+
+Spam Messages (Working)
+
+Thirdperson (Working)
+
+Anti-Aim (Working)
+
+ESP (Working)
+
+Bhop (Patched)
