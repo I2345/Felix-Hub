@@ -25,7 +25,7 @@ Synapse X (Tested)
 
 # Current Supported Games
 
-As of v4 these are the games:
+As of v7 these are the games:
 
 Ninja Legends
 
