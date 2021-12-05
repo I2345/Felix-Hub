@@ -57,7 +57,17 @@ Autofarm (Working)
 
 # Arsenal
 
-Triggerbot (Not tested)
+Silent Aim (Working)
+
+ESP (Working)
+
+AntiAim (Working)
+
+Chatspam (Working)
+
+Get all pickups (Working)
+
+Thirdperson (Working)
 
 # Fake Pet Simulator X
 
