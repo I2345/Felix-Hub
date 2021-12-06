@@ -25,7 +25,7 @@ Synapse X (Tested)
 
 # Current Supported Games
 
-As of v9 these are the games:
+As of v10 these are the games:
 
 Ninja Legends
 
@@ -33,9 +33,23 @@ Dalgona Simulator
 
 Arsenal
 
+Dead by Roblox
+
 Fake Pet Simulator X
 
 Ghost Simulator
+
+# Dead by Roblox
+
+All Player ESP (Working)
+
+Generator ESP (Working)
+
+Inf Bloodpoints (Working)
+
+All Tier3 Perks (Working)
+
+Inf Items (Working)
 
 # Ninja Legends
 
