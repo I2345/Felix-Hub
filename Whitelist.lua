@@ -12,5 +12,7 @@ local Accesslist = {
     [1185812313] = true;
 }
 
-getgenv().AccessList = Accesslist
-print("Loaded")
+if not Accesslist[game.Players.LocalPlayer.UserId] then
+    setclipboard("https://discord.gg/fTmuCFgVFB")
+    game.Players.LocalPlayer:Kick("You do not own or have not been whitelisted by Felixhub, please contact us with the discord link in your clipboard")
+end
