@@ -8,7 +8,7 @@ local SupportedGames = {
     {"Blackhawk Rescue Mission 5 UI", "https://raw.githubusercontent.com/AlexR32/Roblox/main/BRM5/SilentAim.lua", "Blackhawk Rescue Mission 5"};
     {"Strongest Punch Simulator AutoFarm", "https://raw.githubusercontent.com/NotOnTop/Exploits_Public/main/StrongestPunchSimulator.lua", "Strongest Punch Simulator"};
     {"Freecam script", "https://pastebin.com/raw/yJ51HKy9", "Universal"};
-    {"Mad City Autofarm", "https://raw.githubusercontent.com/PhoenixAceVFX/Roblox-Scripts/master/Mad%20City%20-%20Unlimited%20Money.lua", "Mad City"}
+    {"Mad City Autofarm", "https://raw.githubusercontent.com/ThisUsernameWasObfuscatedUsingPSUObf40A/Scripts/main/MadCityAutoRob", "Mad City"}
 }
 
 getgenv().ScriptHub = SupportedGames
